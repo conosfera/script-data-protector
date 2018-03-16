@@ -1,7 +1,7 @@
 # script-data-protector
-# Script corto de javascript para proteger datos en html de:
-# - arañas de buscadores
-# - arañas de spamers
+Script corto de javascript para proteger datos en html de:
+- arañas de buscadores
+- arañas de spamers
 
 Las arañas habituales no están preparadas para ver/captar estos datos camuflados, pero podrían en un futuro si son diseñadas con ese propósito
 
