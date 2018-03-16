@@ -1,4 +1,4 @@
-//codigo para proteger un correo electronico
+//Inicio código
 function protector-m()
 //by CONOS.io
 {
@@ -6,8 +6,10 @@ var usuario = "mi-cuenta"
 var dominio = "mi-dominio.com"
 document.write("<a href=\"mailto:" + usuario + "@" + dominio + "\">" + usuario + "@" + dominio + "</a>")
 }
+//Fin código
 
 /*
+Código javascript para proteger un correo electronico
 1. Cambiar los datos: mi-cuenta y: mi-dominio por los que correspondan
 2. Debes llamar al archivo js que recoje las funciones desde el código de tu página html
 Por ejemplo:
