@@ -1,7 +1,6 @@
 //Inicio código
-
 function protector()
-//by CONOS.io
+//by CONOS.io @conosfera
 {
 var data1 = " dato 1"
 var data2 = " dato 3"
