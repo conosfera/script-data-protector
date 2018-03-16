@@ -1,6 +1,6 @@
 //Inicio código
 function protector-m()
-//by CONOS.io
+//by CONOS.io @conosfera
 {
 var usuario = "mi-cuenta"
 var dominio = "mi-dominio.com"
