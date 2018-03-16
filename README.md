@@ -1,8 +1,21 @@
 # script-data-protector
-Primero debes llamar al archivo js que recoja las funciones desde el código html
-Por ejemplo:
-<script src="js/email-protector.js"></script>
-En el lugar que quieras escribir el dato, debes incluir la orden que llame a la función específica
-Por ejemplo:
-<script>protector-m()</script>
-Se debe incluir todas las funciones en un mismo archivo js, nombrando cada función con un nombre diferente
+# Script corto de javascript para proteger datos en html de:
+# - arañas de buscadores
+# - arañas de spamers
+
+Las arañas habituales no están preparadas para ver/captar estos datos camuflados, pero podrían en un futuro si son diseñadas con ese propósito
+
+Se dividen en 3 partes:
+- archivo con el código
+- llamada al archivo
+- llamada a la función
+
+Están explicadas en los comentarios de los códigos de ejemplo:
+dataprotector.js
+email-protector.js
+phone-protectos.js
+
+by CONOS.io
+@conosfera
+
+No atendemos dudas sobre los códigos
