@@ -1,6 +1,6 @@
 //Inicio código
 function protector-t()
-//by CONOS.io
+//by CONOS.io @conosfera
 {
 var data1 = "+34 "
 var data2 = "900"
